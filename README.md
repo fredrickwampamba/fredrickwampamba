@@ -23,6 +23,7 @@ My sample work or projects i have developed alone
 - 🌐 https://system.kessd.org/
 - 🌐 https://agripoint.ug/
 - 🌐 https://rjtbuilders.co.ug/
+- 🌐 https://afrisold.com/
 
 <!---
 fredrickwampamba/fredrickwampamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
