@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @fredrickwampamba
 - 👀 I’m interested in programming concepts 👨‍💻 and source code management
-- 🌱 I’m currently learning Android developement 📱 and API / Web Services 🌐
+- 🌱 I’m a web developer and Android application developer
+
+
 - 📫 How to reach me ...
 ```
 Reach me through my Whatsapp
