@@ -27,6 +27,7 @@ My sample work or projects i have developed alone
 - 🌐 https://rjtbuilders.co.ug/
 - 🌐 https://afrisold.com/
 - 🌐 https://sallytraders.com/
+- 🌐 https://africahopecharity.org/
 
 <!---
 fredrickwampamba/fredrickwampamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
