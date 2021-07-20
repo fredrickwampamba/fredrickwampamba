@@ -28,6 +28,8 @@ My sample work or projects i have developed alone
 - 🌐 https://afrisold.com/
 - 🌐 https://sallytraders.com/
 - 🌐 https://africahopecharity.org/
+- 🌐 https://admin.tech4her.org/
+- 🌐 https://skilling.tech4her.org/
 
 <!---
 fredrickwampamba/fredrickwampamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
