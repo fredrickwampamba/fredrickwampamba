@@ -18,7 +18,7 @@ I have worked for the following companies
 - 🏨 Computing Palace Technologies Limted
 
 My sample work or projects i have developed alone
-- 🌐 https://billing.telekonet.co.ug/
+- 🌐 https://billing.telekonet.co.ug/ -->> 🌐 https://telespot.co.ug/
 - 🌐 https://earthlivingvolunteers.org/
 - 🌐 https://application.kampalapolytechnicmengo.ac.ug/
 - 🌐 https://track.fullminelogistics.co.ug/
