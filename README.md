@@ -16,6 +16,7 @@ I have worked for the following companies
 - 🏨 ISISOFT Technologies Limited
 - 🏨 Abercom Technologies Limited
 - 🏨 Computing Palace Technologies Limted
+- 🏨 Codium Technologies Limted
 
 My sample work or projects i have developed alone
 - 🌐 https://billing.telekonet.co.ug/ -->> 🌐 https://telespot.co.ug/
