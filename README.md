@@ -33,7 +33,7 @@ My sample work or projects i have developed alone
 - 🌐 https://skilling.tech4her.org/
 - 🌐 https://invaluablez.com/
 - 🌐 https://codiumtechnologies.com/
-- 🌐 https://braptspot.braptcommunications.net
+- 🌐 https://braptcommunications.net
 <!---
 fredrickwampamba/fredrickwampamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
