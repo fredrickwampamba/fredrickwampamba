@@ -10,7 +10,7 @@ You call or text me to get in touch
 ```
 <a href="https://wa.me/256702718025">Whatsapp Me</a>
 <br>
-<a href="tel:+256702718025">Call / Text Me  +256 702718025</a>
+<a href="tel:256702718025">Call / Text Me  +256 702718025</a>
 
 I have worked for the following companies 
 - 🏨 ISISOFT Technologies Limited
