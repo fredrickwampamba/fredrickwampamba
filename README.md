@@ -13,7 +13,7 @@ You call or text me to get in touch
 <a href="tel:256702718025">Call / Text Me  +256 702718025</a>
 
 I have worked for the following companies 
-- 🏨 ISISOFT Technologies Limited
+- 🏨 Isazeni solutions smc limited
 - 🏨 Abercom Technologies Limited
 - 🏨 Computing Palace Technologies Limted
 - 🏨 Codium Technologies Limted
