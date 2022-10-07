@@ -27,8 +27,6 @@ My sample work or projects i have developed alone
 - 🌐 https://afrisold.com/
 - 🌐 https://sallytraders.com/
 - 🌐 https://africahopecharity.org/
-- 🌐 https://admin.tech4her.org/
-- 🌐 https://skilling.tech4her.org/
 - 🌐 https://invaluablez.com/
 - 🌐 https://codiumtechnologies.com/
 - 🌐 https://braptcommunications.net/
